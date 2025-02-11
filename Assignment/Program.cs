@@ -9,6 +9,7 @@ namespace Assignment
     {
         static void Main(string[] args)
         {
+
             #region LINQ - Restriction Operators
             ////LINQ - Restriction Operators
             ////1.Find all products that are out of stock.
